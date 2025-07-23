@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "308014921330",
+    "project_id": "bajrangbaliud",
+    "storage_bucket": "bajrangbaliud.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:308014921330:android:66769321ca77d5acdcf4eb",
+        "android_client_info": {
+          "package_name": "com.bajrangbali.mainapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCkAy0J6ksWq8tnp4PVNNjHucPhuTqCgaQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

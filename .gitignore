@@ -1,0 +1,23 @@
+# IDE files
+.idea/
+.vscode/
+
+# Build files
+*.apk
+*.aab
+*.ap_
+*.dex
+build/
+*/build/
+
+# Local configuration
+local.properties
+
+# Keystore files
+*.jks
+*.keystore
+
+# Gradle files
+.gradle/
+captures/
+output/
